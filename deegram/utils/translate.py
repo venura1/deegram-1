@@ -1,11 +1,11 @@
 VERSION = "0.2.4"
-CREATOR = "@finite_xd"
-BOT_NAME = "FINITE MUSIC"
-YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
+CREATOR = "@dexter119"
+BOT_NAME = "MUSIC FANS SONG DOWNLOADER"
+YOUTUBE = "unfind""
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information\n\n"
-    "join @finiteyt for more bots"
+    "Made With ❤️ In 🇱🇰"
 )
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
